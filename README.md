@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexander Loginov
 - 👀 I’m interested in HTML, CSS, JS
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me alexanderloginov713@yandex.ru
 
 <!---
