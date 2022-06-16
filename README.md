@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Alexander Loginov
-- 👀 I’m interested in HTML, CSS, JS
-- 🌱 I’m currently learning HTML, CSS, JS
-- 📫 How to reach me alexanderloginov713@yandex.ru
+## Привет, я Александр! 👋
+- 👀 Я интересуюсь frontend-разработкой
+- 🌱 Я сейчас изучаю Reaсt.js
+- :pencil2: Хочу писать чистый код
+- 📫 Связаться со мной: alexanderloginov713@yandex.ru
 
-<!---
-AlexanderLoginov713/AlexanderLoginov713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Мой стэк:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,figma)](https://skills.thijs.gg)
+
+### Моя статистика:
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AlexanderLoginov713&count_private=true&theme=tokyonight&showicons=true)]()
+
+
