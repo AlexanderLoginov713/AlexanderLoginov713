@@ -2,7 +2,7 @@
 - 👀 Я интересуюсь frontend-разработкой
 - 🌱 Я сейчас изучаю Reaсt.js
 - :pencil2: Хочу писать чистый код
-- 📫 Связаться со мной: alexanderloginov713@yandex.ru
+- 📫 Связаться со мной: alexanderloginov713@yandex.ru, https://t.me/alexanderloginov713
 
 ### Мой стэк:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,figma)](https://skills.thijs.gg)
